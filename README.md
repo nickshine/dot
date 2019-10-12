@@ -62,7 +62,7 @@ pages:
 
 See the Graphviz [Command-line Invocation][cli-docs] docs for full documentation on the dot cli.
 
-[graphviz]:graphviz.org
+[graphviz]:https://graphviz.org
 [dot]:https://en.wikipedia.org/wiki/DOT_(graph_description_language)
 [cli-docs]:https://www.graphviz.org/doc/info/command.html
 
