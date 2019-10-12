@@ -1,6 +1,6 @@
 # DOT
 
->A Docker image for the [Graphviz] DOT CLI.
+A Docker image for the [Graphviz] DOT CLI.
 
 * [Graphviz] - Graph Visualization Software
 * [DOT] - Graph Description Language
